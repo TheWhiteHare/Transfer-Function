@@ -5,7 +5,7 @@ filenames = {'oxygen_LTA','Drug_pre_post'};
 probe_depth = {'DV100','DV300','DV500','DV800'}; 
 region = {'FC','PC'};
 
-figure(003)
+figure(004)
 for region_index = [1 2];
 
 
